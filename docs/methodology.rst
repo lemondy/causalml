@@ -47,6 +47,7 @@ Estimate the average outcomes :math:`\mu_0(x)` and :math:`\mu_1(x)`:
 
 .. math::
    \mu_0(x) = E[Y(0)|X=x]
+   
    \mu_1(x) = E[Y(1)|X=x]
 
 using machine learning models.
